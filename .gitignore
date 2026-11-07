@@ -1,7 +1,7 @@
 venv/
 .venv/
 .pylintrc
-__pycash__/
+__pycache__
 
 .vscode
 .idea
